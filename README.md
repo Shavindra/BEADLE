@@ -1,4 +1,4 @@
-BEADLE (Byaus Data LightStreamer)
+BEADLE (Bynaus Data LightStreamer)
 ======
 
 LightStreamer Data Demos
